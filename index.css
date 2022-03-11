@@ -1,0 +1,17 @@
+#board {
+    background-color: black;
+}
+#board td {
+    width: 10px;
+    height: 10px;
+    padding: 0;
+}
+.dead {
+    background-color: gray;
+}
+.alive {
+    background-color: aqua;
+}
+#actionable {
+    width: 8em;
+}
